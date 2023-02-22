@@ -1,10 +1,10 @@
 # Games About
 
 This Game Is based on java, this game doesn't had GUI so its just some characters that i make look like a Game:)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 There is 2 game that i made, firts one is called "**Battle Anak Anak Kucing**", its a turn base battle with the computer.
 
+Battle Anak Anak Kucing
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I made this game in 3 days. You will chose your character, you can bi Azam Zam, Aldo Do, or Apip Pip, they had their own stats and skill. And there are 2 secret character that you can use! 
 
 **Characters** 
@@ -40,6 +40,8 @@ Skill	: No Skill
 
 b.	Enemy
 There are several Nyai Roro in this game, they have the skill to double their Base Atk. This skill has a percentage of 10% Of the several Nyai Roro, we will only fight 1.
+
+BattleShip
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Second one is "**BattleShip**", so you will use your bomb or radar to locate and destroy yout enemy BattleShip before they destroy you!
 You have 5 round to either use radar or bomb.
